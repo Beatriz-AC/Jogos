@@ -23,11 +23,7 @@ function Home() {
                 </div>
             </main>
 
-            <footer className={home.footer}>
-                <p className={home.rodape}>
-                    © 2024 SURICATEAM. Todos os direitos reservados.
-                </p>
-            </footer>
+
         </div>
     );
 }
